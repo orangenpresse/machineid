@@ -1,3 +1,3 @@
-module github.com/panta/machineid
+module github.com/orangenpresse/machineid
 
-go 1.15
+go 1.18
